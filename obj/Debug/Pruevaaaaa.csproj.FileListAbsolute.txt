@@ -1,0 +1,11 @@
+C:\Users\Dell\OneDrive\Escritorio\Materias\Programación 1\Pruevaaaaa\Pruevaaaaa\bin\Debug\Pruevaaaaa.exe.config
+C:\Users\Dell\OneDrive\Escritorio\Materias\Programación 1\Pruevaaaaa\Pruevaaaaa\bin\Debug\Pruevaaaaa.exe
+C:\Users\Dell\OneDrive\Escritorio\Materias\Programación 1\Pruevaaaaa\Pruevaaaaa\bin\Debug\Pruevaaaaa.pdb
+C:\Users\Dell\OneDrive\Escritorio\Materias\Programación 1\Pruevaaaaa\Pruevaaaaa\obj\Debug\Pruevaaaaa.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Escritorio\Materias\Programación 1\Pruevaaaaa\Pruevaaaaa\obj\Debug\Pruevaaaaa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\OneDrive\Escritorio\Materias\Programación 1\Pruevaaaaa\Pruevaaaaa\obj\Debug\Pruevaaaaa.Form1.resources
+C:\Users\Dell\OneDrive\Escritorio\Materias\Programación 1\Pruevaaaaa\Pruevaaaaa\obj\Debug\Pruevaaaaa.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Escritorio\Materias\Programación 1\Pruevaaaaa\Pruevaaaaa\obj\Debug\Pruevaaaaa.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Escritorio\Materias\Programación 1\Pruevaaaaa\Pruevaaaaa\obj\Debug\Pruevaaaaa.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Escritorio\Materias\Programación 1\Pruevaaaaa\Pruevaaaaa\obj\Debug\Pruevaaaaa.exe
+C:\Users\Dell\OneDrive\Escritorio\Materias\Programación 1\Pruevaaaaa\Pruevaaaaa\obj\Debug\Pruevaaaaa.pdb
